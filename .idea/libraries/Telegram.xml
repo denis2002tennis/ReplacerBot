@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Telegram">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/.mvn/wrapper" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-abilities/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-abilities/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-chat-session-bot/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-extensions/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-meta/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-meta/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-spring-boot-starter/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots-spring-boot-starter/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/TelegramBots-4.4.1/telegrambots/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
